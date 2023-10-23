@@ -1,0 +1,144 @@
+.div-abertura{
+    align-items: center;
+    text-align: center;
+    margin-top: 75px;
+    font-family: monospace;
+    color: #333;
+    font-size: 15px;
+}
+.page{
+    text-align: left;
+    color: #333;
+    font-size: 7px;
+    font-family: monospace;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+
+}
+.mapa{
+    margin-top:100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    color: #333;
+}
+.conclusão{
+    margin-top: 100px;
+    font-size: 7px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: monospace;
+}
+.introdução-artistas{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 10px;
+    margin-bottom: 70px;
+    font-family: monospace;
+    color: #333;
+}
+.guitarra{
+    position: relative;
+    left: 80px;
+}
+.piano{
+    position: relative;
+    left: 100px;
+}
+.saxofone{
+    position: relative;
+    left: 120px;
+}
+.bateria{
+    position: relative;
+    left: 140px;
+}
+.h1-guitarra{
+    display: inline;
+    position: relative;
+    left: 137px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.h1-piano{
+    display: inline;
+    position: relative;
+    left: 290px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.h1-saxofone{
+    display: inline;
+    position: relative;
+    left: 455px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.h1-bateria{
+    display: inline;
+    position: relative;
+    left: 630px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.vocal{
+    position: relative;
+    left: 80px;
+}
+.muie{
+    position: relative;
+    left: 100px
+}
+.trompete{
+    position: relative;
+    left: 120px;
+}
+.baixo{
+    position: relative;
+    left: 140px;
+}
+.h1-vocal{
+    display: inline;
+    position: relative;
+    left: 140px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.h1-muie{
+    display: inline;
+    position: relative;
+    left: 286px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.h1-trompete{
+    display: inline;
+    position: relative;
+    left: 390px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.h1-baixo{
+    display: inline;
+    position: relative;
+    left: 490px;
+    color: #333;
+    font-family: monospace;
+    font-size: 20px;
+}
+.video{
+    align-items: center;
+    text-align: center;
+    color: #333;
+    font-size: 10px;
+    font-family: monospace;
+}
